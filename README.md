@@ -1,4 +1,5 @@
-![1-Youtube Banner ai engineering for grandmas red round buttons-2560x1440 AIEFG](https://github.com/user-attachments/assets/cd460cd9-6b37-43d5-8cbc-1b8c680063d2)
+![1-Github Banner ai engineering for grandmas red round buttons-1025x230](https://github.com/user-attachments/assets/c04040bf-4307-47a1-8c3f-8fe1898f2921)
+
 
 - 👋 Hi, I’m @aiengineeringforgrandmas
 - 👀 I’m interested in ...
