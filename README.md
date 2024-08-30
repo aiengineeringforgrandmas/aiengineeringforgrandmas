@@ -1,5 +1,5 @@
 
-![1-Github Banner ai engineering for grandmas red round buttons-1025x230](https://github.com/user-attachments/assets/304bd94d-1181-4301-b341-1dc7c9725f97)
+![1-Github Banner ai engineering for grandmas blue round buttons-1000x185](https://github.com/user-attachments/assets/46220ade-30b4-4f7d-88f1-6e2e01760bae)
 
 ## We ❤️ Making AI More Accessible for Beginners! 
 We believe that AI should be accessible to everyone, regardless of their technical background.  The AI Engineering for Grandmas project is a step towards that vision.
