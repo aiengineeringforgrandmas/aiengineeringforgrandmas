@@ -1,3 +1,7 @@
+## I ❤️ Making AI More Accessible for Beginners! 
+
+I believe that AI should be accessible to everyone, regardless of their technical background.  The AI Engineering for Grandmas project is a step towards that vision - Gregory Kennedy
+
 - 👋 Hi, I’m @aiengineeringforgrandmas
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -11,6 +15,4 @@ aiengineeringforgrandmas/aiengineeringforgrandmas is a ✨ special ✨ repositor
 You can click the Preview link to take a look at your changes.
 --->
 
-## I ❤️ Making AI More Accessible for Beginners! 
 
-I believe that AI should be accessible to everyone, regardless of their technical background.  The AI Engineering for Grandmas project is a step towards that vision - Gregory Kennedy
