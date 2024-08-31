@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e679422b-770d-4ef9-8db3-14940681b58f" alt="Data Literacy Month AI Engineering for Grandmas" width="750">
+  <img src="[https://github.com/user-attachments/assets/e679422b-770d-4ef9-8db3-14940681b58f](https://github.com/user-attachments/assets/a2d304a8-28f7-4f39-821e-bb9a5fcf7c24)" alt="Data Literacy Month AI Engineering for Grandmas" width="750">
 </p>
+
 
 ## I ❤️ Making AI More Accessible for Beginners! 
 I believe that AI should be accessible to everyone, regardless of their technical background.  The AI Engineering for Grandmas project is a step towards that vision. - Gregory Kennedy
