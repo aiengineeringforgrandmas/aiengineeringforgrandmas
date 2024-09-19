@@ -7,7 +7,7 @@ I believe that AI should be accessible to everyone, regardless of their technica
 </p>
 
 ## I also ❤️ Creating Easy to Follow Step by Step Documentation! 
-Good documentation is essential for beginners as well as fully deployed into production products.  Each app repository features some comprehensive docs.  I truly hope that you find them Easy to Follow and useful.
+Good documentation is essential for beginners as well as for fully deployed into production products.  Every AI Engineering for Grandmas app repository features comprehensive documentation.  I truly hope that you find them Easy to Follow and useful.
 
 
 <!---
