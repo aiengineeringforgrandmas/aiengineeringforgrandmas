@@ -1,5 +1,5 @@
 ## I ❤️ Making AI More Accessible for Beginners! 
-I believe that AI should be accessible to everyone, regardless of their technical background or income level.  The AI Engineering for Grandmas project is a step towards that vision. 
+I believe that AI should be accessible to everyone, regardless of their technical background or income level.  The AI Engineering for Grandmas project is a tiny step towards that vision. 
 
 
 <p align="center">
