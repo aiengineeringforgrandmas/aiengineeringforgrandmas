@@ -9,6 +9,7 @@ I believe that AI should be accessible to everyone, regardless of their technica
 ## I also ❤️ Creating Easy to Follow Step by Step Documentation! 
 Good documentation is essential for beginners as well as for fully deployed into production products.  Every AI Engineering for Grandmas app repository features comprehensive documentation.  I truly hope that you find them Easy to Follow and useful. - Gregory
 
+![logo 800x700 AI Engineering for Grandmas - Smiling Grandma and Text](https://github.com/user-attachments/assets/b83b0954-09fd-4d04-95cc-6fcff23f210e)
 
 <!---
 aiengineeringforgrandmas/aiengineeringforgrandmas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
